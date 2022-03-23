@@ -14,7 +14,7 @@
 
 <br>
 
-<p>Projeto criado em aula pela da Rocketseat simulando um teclado de piano utilizando javaScript moderno.</p>
+<p>Projeto criado em aula pela Rocketseat simulando um teclado de piano utilizando javaScript moderno.</p>
 
 <br>
 

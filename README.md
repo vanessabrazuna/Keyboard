@@ -8,13 +8,13 @@
 
 <hr>
 
-<br>
+<a align="center">![Keyboard (Community)](https://i.imgur.com/g5d70Ir.png)</a>
 
 ## Sobre o Projeto
 
 <br>
 
-<p>Projeto criado pela Rocketseat simulando um teclado de piano.</p>
+<p>Projeto criado em aula pela da Rocketseat simulando um teclado de piano utilizando javaScript moderno.</p>
 
 <br>
 

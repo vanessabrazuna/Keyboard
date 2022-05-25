@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">Deploy <a href="https://vanessabrazuna.github.io/Keyboard/" target="_blank">aqui!</a></p>
+<p align="center">Deploy <a href="https://vanessabrazuna.github.io/Keyboard/" target="_blank">here!</a></p>
 
 <br>
 
@@ -10,15 +10,15 @@
 
 <a align="center">![Keyboard (Community)](https://i.imgur.com/g5d70Ir.png)</a>
 
-## Sobre o Projeto
+## About the project
 
 <br>
 
-<p>Projeto criado em aula pela Rocketseat simulando um teclado de piano utilizando javaScript moderno.</p>
+<p>Rocketseat project created in class simulating a piano keyboard using modern javaScript.</p>
 
 <br>
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 <br>
 
